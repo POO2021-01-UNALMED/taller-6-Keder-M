@@ -1,5 +1,5 @@
 package test;
 
-public class Pais {
+public class pA {
 
 }
